@@ -32,6 +32,9 @@ pip install -r requirements.txt
 
 ![nine](images/nine.png)
 
+### The final output will look like
+![ten](images/ten.png)
+
 - You can also follow this [Video](https://screenrec.com/share/nQy6DFJHrz) tutorial, if you ignore my nervousness 🤣
 
 ## Author
