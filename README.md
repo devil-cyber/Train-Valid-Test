@@ -13,6 +13,26 @@
 ```sh
 pip install -r requirements.txt
 ```
+## Follow these steps to get started:
+- clone this script from github and put train_valid_test.py file and classes.txt file inside your dataset
+
+![one](images/one.png)
+
+![two](images/two.png)
+
+![three](images/three.png)
+
+![four](images/four.png)
+
+![five](images/five.png)
+
+![six](images/seven.png)
+
+![eight](images/eight.png)
+
+![nine](images/nine.png)
+
+- You can also follow this [Video](https://screenrec.com/share/nQy6DFJHrz) tutorial, if you ignore my nervousness 🤣
 
 ## Author
 
